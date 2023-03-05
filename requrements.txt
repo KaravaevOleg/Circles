@@ -3,3 +3,5 @@ pymongo
 bson
 MongoEngine
 jwt
+JWTManager
+flask_mongoengine
